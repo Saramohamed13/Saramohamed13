@@ -11,19 +11,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a Backend developer and competitive programmer.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with c++, c#, problem solving, OOP , algorithm , data structure, database ,entity framework core, ASP.NET WEP API
+
 
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sara-mohamed-b2256b244/" target="_blank"><img src="https://img.shields.io/badge/-Hanem%20Naga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-mohamed-b2256b244/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Mohmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
