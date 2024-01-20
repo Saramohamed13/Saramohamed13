@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Backend developer and competitive programmer.
+- 🏢 I'm a Full stack .net developer and competitive programmer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with c++, c#, problem solving, OOP , algorithm , data structure, database ,entity framework core, ASP.NET WEP API
 
